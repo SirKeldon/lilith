@@ -1,6 +1,6 @@
 # Lilith
 
-Yet another snake game
+Yet another snake game -  [DEMO](https://sirkeldon.github.io/lilith)
 
 # What is this?
 
